@@ -11,8 +11,6 @@ This repository contains the code samples and summaries for each chapter of the 
 
 Here's a brief overview of the topics covered in each chapter:
 
-Contents:
-
 Chapter 1: Introduction to Python
    - Provides an overview of the Python programming language and its basic syntax.
 
