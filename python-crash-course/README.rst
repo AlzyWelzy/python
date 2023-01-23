@@ -1,53 +1,70 @@
-.. contents:: Table of Contents
-    :local:
+.. _python_crash_course_3rd_edition:
 
-Introduction
-------------
-This book is an introduction to Python programming language and its various features. The book covers the basics of Python, including syntax, data types, and variables, as well as more advanced topics such as classes, functions, and exception handling. The book also includes projects that demonstrate the use of Python in real-world scenarios.
+Python Crash Course 3rd Edition
+================================
 
-Getting Started
----------------
-Before you begin, you will need to have Python installed on your computer. You can download the latest version of Python from the official website (https://www.python.org/downloads/).
+This book is an introduction to Python programming, using the Pygame library to create games. I'm learning python from this book and everything that I learn will be added here in this repo.
 
-Table of Contents
------------------
+Contents:
 
-Chapter 1: Getting Started
-Chapter 2: Variables and Simple Data Types
-Chapter 3: Introducing Lists
-Chapter 4: Working with Lists
-Chapter 5: if Statements
-Chapter 6: Dictionaries
-Chapter 7: User Input and while Loops
-Chapter 8: Functions
-Chapter 9: Classes
-Chapter 10: Files and Exceptions
-Chapter 11: Testing Your Code
-Chapter 12: A Ship That Fires Bullets
+Chapter 1: Introduction to Python
+   - Provides an overview of the Python programming language and its basic syntax.
+
+Chapter 2: Numbers and Variables
+   - Covers working with numbers and variables in Python, including data types and basic math operations.
+
+Chapter 3: Strings and Text
+   - Discusses working with strings and text in Python, including string formatting and concatenation.
+
+Chapter 4: Lists and Dictionaries
+   - Covers working with lists and dictionaries in Python, including indexing, slicing, and modifying data.
+
+Chapter 5: Conditional Statements and Loops
+   - Discusses using if-else statements and loops in Python, including for and while loops.
+
+Chapter 6: Functions
+   - Covers defining and calling functions in Python, including function parameters and return values.
+
+Chapter 7: Classes
+   - Discusses object-oriented programming in Python, including creating classes and objects.
+
+Chapter 8: Input and Output
+   - Covers working with input and output in Python, including reading and writing files.
+
+Chapter 9: Errors and Exceptions
+   - Discusses handling errors and exceptions in Python, including try-except statements.
+
+Chapter 10: Testing
+   - Covers writing unit tests in Python using the unittest module.
+
+Chapter 11: Debugging
+   - Discusses techniques for debugging Python code, including using the pdb module.
+
+Chapter 12: A Ship that Fires Bullets
+   - Covers creating a Pygame game where the player controls a ship that can fire bullets at oncoming alien ships.
+
 Chapter 13: Aliens!
+   - Covers adding an alien fleet to the Pygame game, allowing the player to shoot and destroy the aliens.
+
 Chapter 14: Scoring
-Chapter 15: Generating Data
-Chapter 16: Downloading Data
-Chapter 17: Working with APIs
-Chapter 18: Getting Started with Django
-Chapter 19: User Accounts
-Chapter 20: Styling and Deploying an App
-Appendix A: Installation and Troubleshooting
-Appendix B: Text Editors and IDEs
-Appendix C: Getting Help
-Appendix D: Using Git for Version Control
-Appendix E: Troubleshooting Deployments
+   - Discusses adding a scoring system to the Pygame game, allowing players to earn points for destroying aliens.
 
-Resources
----------
-- Python official website: https://www.python.org/
-- Pygame library: https://www.pygame.org/
-- Django web framework: https://www.djangoproject.com/
+Chapter 15: High Scores
+   - Covers saving and displaying high scores for the Pygame game.
 
-Contributing
-------------
-If you have any suggestions or improvements, feel free to create a pull request or open an issue. I am always open to feedback and suggestions to make this repository better.
+Chapter 16: More Game Elements
+   - Discusses adding more elements to the Pygame game, such as power-ups and obstacles.
 
-License
--------
-This book is licensed under the AGPL 3.0 license.
+Chapter 17: Deployment
+   - Covers preparing the Pygame game for deployment, including creating a executable file and packaging assets.
+
+Chapter 18: Beyond Pygame
+   - Discusses other libraries and frameworks for creating games in Python, such as Pyglet and PyOpenGL.
+
+Chapter 19: Advanced Topics
+   - Covers advanced topics in Python programming, such as decorators and metaclasses.
+
+Chapter 20: Conclusion
+   - Provides a summary of the book and suggestions for further learning.
+
+License: AGPL 3.0
