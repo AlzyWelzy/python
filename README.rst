@@ -23,9 +23,6 @@ Getting Started
 Resources
 ---------
 - `Python.org <https://www.python.org/>`_ - The official Python website
-- `Python for Beginners <https://www.python.org/about/gettingstarted/>`_ - A great resource for those new to Python
-- `Learn Python on Codecademy <https://www.codecademy.com/learn/learn-python>`_ - An interactive online course
-- `Automate the Boring Stuff with Python <https://automatetheboringstuff.com/>`_ - A book that teaches Python through practical projects
 
 Contributing
 ------------
