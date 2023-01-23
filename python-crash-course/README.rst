@@ -3,7 +3,13 @@
 Python Crash Course 3rd Edition
 ================================
 
-This book is an introduction to Python programming, using the Pygame library to create games. I'm learning python from this book and everything that I learn will be added here in this repo.
+Welcome to the code and summary repository for the book "Python Crash Course 3rd Edition"!
+
+This book is an introduction to Python programming, using the Pygame library to create games. It is aimed at beginners who have little or no experience with programming and want to learn how to create interactive and fun games using Python. Whether you're a student looking to learn a new skill, a hobbyist looking to create your own games, or a professional looking to expand your programming toolkit, this book is for you.
+
+This repository contains the code samples and summaries for each chapter of the book, as well as additional exercises and resources to help you learn and apply the concepts covered in the book.
+
+Here's a brief overview of the topics covered in each chapter:
 
 Contents:
 
