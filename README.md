@@ -29,4 +29,4 @@ If you have any suggestions or improvements, feel free to create a pull request 
 
 ## License
 
-This repository is open-source and available under the [MIT License](LICENSE.md).
+This repository is open-source and available under the [AGPL 3.0 License](LICENSE.md).
